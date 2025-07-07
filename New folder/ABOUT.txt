@@ -1,0 +1,4 @@
+Created an end-to-end Power BI project on credit card transactions, 
+involving data ingestion from CSV to PostgreSQL, 
+followed by integration with Power BI for dynamic dashboards and insights on customer behavior,
+ transaction patterns, and credit card usage trends.
